@@ -1,2 +1,2 @@
-# XUYUQI
-Minecraft
+# Minecraft-Bedrock
+By XUYUQI (Loyakayivered)
